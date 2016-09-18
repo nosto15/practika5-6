@@ -1,0 +1,147 @@
+@font-face {
+	font-family: "murat polu-tolstyi";
+	src: url(./srift/Myriad-Pro-Semibold-Condensed_31644.ttf);
+}
+@font-face {
+	font-family: "murat legkiy";
+	src: url(./srift/MyriadPro-Light.otf);
+}
+*
+{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+.stranica{
+	min-width: 1100px;
+	min-height: 100%;
+	position: relative;
+	background-image: url(./image/fon.png);
+}
+#menu{
+	width: 1100px;
+	height: 105px;
+	/*background-color: #fff;*/
+	margin: 0 auto;
+	padding-top: 60px;
+}
+.name{
+	text-transform: uppercase;
+	width: 151px;
+	float: left;
+}
+.name div:first-child{
+	font-size: 48px;
+	font-family: "murat polu-tolstyi";
+	letter-spacing: -4px;
+	font-stretch: ultra-condensed;
+	color: #e4e4e4;
+}
+.name div:last-child{
+	font-size: 12px;
+	font-family: "murat legkiy";
+	color: #fff;
+	background-color: #1caedd;
+	border-top: 1px solid #fff;
+	padding: 2px;
+	text-align: center;
+}
+.contats{
+	float: right;
+	position: relative;
+	top: 30px;
+	color: #cacaca;
+}
+.verh img{
+	float: right;
+}
+.nije_verha{
+	float: right;
+	margin-top: 7px;
+}
+.nije_verha a{
+	padding-left: 2px;
+	color: #1caedd;
+	float: right;
+	text-decoration: none;
+}
+.contats > span{
+	position: absolute;
+	left: 193px;
+	top: -1.5px;
+}
+#content{
+	width: 1100px;
+	position: relative;
+	margin: 0 auto;
+	min-height: 1250px;
+	background-color: #fff;
+}
+.verh_volna{
+	position: absolute;
+	width: 1100px;
+	background-image: url(./image/layer.png);
+	background-repeat: repeat-x;
+	height: 13px;
+	top: -12px;
+}
+.vse{
+	width: 1090px;
+	margin: 0 auto;
+}
+.content-menu
+{
+	height: 45px;
+	background-color: #000;
+}
+
+ul.qw{
+	margin: 0;
+    
+}
+ul.qw li
+{
+	float: left;
+	margin-right: 1px;
+	display: inline-block;	
+	font-family: Arial;
+	height: 45px;
+	font-size: 0px;
+	text-align: center;
+	background-color: #1caedd;
+}
+ul.qw li:last-child
+{
+	margin-right: 0;
+}
+
+ul.qw a
+{
+	display: inline-block;
+	padding: 15px;
+    text-decoration: none;  
+    color: #FFF;
+	width: 100px;
+	font-size: 12px;
+}
+ul.qw a:hover
+{
+    color: #000000;
+}
+.content-menu img{
+	float: right;
+	position: relative;
+	top: 8px;
+	right: 6px;
+}
+.work_evo div{
+	
+}
+
+.niz_volna{
+	position: absolute;
+	width: 1100px;
+	background-image: url(./image/layer1.png);
+	background-repeat: repeat-x;
+	height: 13px;
+	bottom: -12px;
