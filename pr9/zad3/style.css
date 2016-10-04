@@ -1,0 +1,19 @@
+table
+{
+    border-collapse: collapse;
+}
+td
+{
+     border-width: 1px;
+    text-align: center;
+    vertical-align: top;
+}
+tr
+{
+     text-align: center;
+    vertical-align: top;
+}
+.right
+{
+    text-align: right;
+}
