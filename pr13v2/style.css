@@ -1,0 +1,157 @@
+* {
+margin:0;
+padding:0;	
+}
+.glav
+{
+	margin: 0 auto;
+	width:1365px;
+	height:560px;
+}
+.header
+ {
+	position: absolute;
+	width:1305px;
+	height:300px;
+	background: url(fon1703.png) 70% 70% no-repeat ;
+	background-size: cover;
+	z-index:1;
+	border:30px solid white;
+	opacity: 0.8;
+}
+.logo
+{
+	margin-top:0px;
+	margin-left:350px;
+	position: absolute;
+	width: 900px;
+	height: 400px;
+	background: url(logo-msxemel.png) no-repeat ;
+	background-size: contain;
+	z-index:2;
+}
+.menu
+{
+	
+}
+.content
+{
+
+}
+.footer
+{
+	
+}
+a
+{
+	font-family:Geneva, Arial, Helvetica, sans-serif;
+	font-size: 35pt;
+	background: ;
+	position: relative;
+	z-index:3;
+	opacity: 1
+}
+
+
+.jira
+{
+	position: absolute;
+	left:252px;
+	top:360px;
+	width: 135px;
+	height: 268px;
+	border:5px solid white;
+	opacity: 0.8;
+}
+.jirb
+{
+	position: absolute;
+	left:397px;
+	top:360px;
+	width: 135px;
+	height: 268px;
+	border:5px solid white;
+	opacity: 0.8;
+}
+.jirc
+{
+	position: absolute;
+	left:542px;
+	top:360px;
+	width: 135px;
+	height: 268px;
+	border:5px solid white;
+	opacity: 0.8;
+}
+.jird
+{
+	position: absolute;
+	left:687px;
+	top:360px;
+	width: 135px;
+	height: 268px;
+	border:5px solid white;
+	opacity: 0.8;
+}
+.jire
+{
+	position: absolute;
+	left:832px;
+	top:360px;
+	width: 135px;
+	height: 268px;
+	border:5px solid white;
+	opacity: 0.8;
+}
+.jirf
+{
+	position: absolute;
+	left:977px;
+	top:360px;
+	width: 135px;
+	height: 268px;
+	border:5px solid white;
+	opacity: 0.8;
+}
+
+.jir a:link 
+{ 
+color:black; font-weight: 150; text-decoration: none; 
+} 
+.jir a:hover 
+{ 
+color:black; font-weight: bold; text-decoration: blink; 
+} 
+.jir a:active 
+{ 
+color: black; font-weight: bold; text-decoration: underline;
+} 
+.jir a:visited 
+{ 
+color: black; font-weight: 150; text-decoration: line-through; 
+}
+.vmenu
+{
+	text-align: center;
+	list-style-type:none;
+	z-index:4;
+	padding-left:10;
+	padding-bottom:10;
+	padding-right:10;
+}
+a:link 
+{ 
+color:#EF7B7B; font-weight: 150; text-decoration: none; 
+} 
+.vmenu a:hover 
+{ 
+color:#EF7B7B; font-weight: bold; text-decoration: none; 
+} 
+.vmenu a:active 
+{ 
+color: #EF7B7B; font-weight: bold; text-decoration: none;
+} 
+.vmenu a:visited 
+{ 
+color: #EF7B7B; font-weight: 150; text-decoration: line-through; 
+}
