@@ -1,10 +1,10 @@
 @font-face {
 	font-family: "murat polu-tolstyi";
-	src: url(./srift/Myriad-Pro-Semibold-Condensed_31644.ttf);
+	src: url(../fonts/MyradPro_semibold.otf);
 }
 @font-face {
 	font-family: "murat legkiy";
-	src: url(./srift/MyriadPro-Light.otf);
+	src: url(../fonts/MyriadPro-Light.otf);
 }
 *
 {
@@ -16,7 +16,7 @@
 	min-width: 1100px;
 	min-height: 100%;
 	position: relative;
-	background-image: url(./image/fon.png);
+	background-image: url(../image/fon.png);
 }
 #menu{
 	width: 1100px;
@@ -27,7 +27,7 @@
 }
 .name{
 	text-transform: uppercase;
-	width: 151px;
+	width: 205px;
 	float: left;
 }
 .name div:first-child{
@@ -80,7 +80,7 @@
 .verh_volna{
 	position: absolute;
 	width: 1100px;
-	background-image: url(./image/layer.png);
+	background-image: url(../image/layer.png);
 	background-repeat: repeat-x;
 	height: 13px;
 	top: -12px;
@@ -141,7 +141,7 @@ ul.qw a:hover
 .niz_volna{
 	position: absolute;
 	width: 1100px;
-	background-image: url(./image/layer1.png);
+	background-image: url(../image/layer1.png);
 	background-repeat: repeat-x;
 	height: 13px;
 	bottom: -12px;
