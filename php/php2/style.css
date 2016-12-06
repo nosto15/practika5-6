@@ -1,0 +1,59 @@
+*
+.glavnaya
+{
+height: 300px;
+width: 600px;
+margin: 0 auto;
+background-color: #f0f4f7;
+border: 1px solid #cacdd0;
+margin-top: 180px;
+}
+.registraciya
+{
+float: right;
+background-color: #e8ecef;
+height: 200px;
+width: 300px;
+border: 1px solid #c8cccf;
+margin-right: 15px;
+margin-top: -30px;
+}
+.levaya
+{ 
+margin-left: 25px;
+margin-top: 30px;
+position: absolute;
+border-left: 15px;
+height: 100px;
+width: 250px;
+}
+img
+{
+margin-left: 80px;
+}
+h2
+{
+font-size: 30pt;
+margin-left: 285px;
+color: #c04c2e;
+}
+.imya
+{
+margin-left:15px;
+margin-top: 30px;
+}
+.parol
+{
+margin-top: 20px;
+margin-left:15px;
+}
+.button
+{
+margin-left: 15px;
+margin-top: 20px;
+height: 30px;
+width: 50px;
+background-color: #e8ebee;
+border-style: solid;
+border: 1px solid #ccd0d3;
+}
